@@ -1,0 +1,135 @@
+Thanks for taking part in our study.
+
+There are two parts to this study.
+In Part I, a set of 15 objects will appear on-screen.
+
+We will give you a goal shape (e.g. a small red cone).
+Your challenge is to produce a shape like the goal.
+
+You can do that by guiding the set of
+shapes to see on screen to look like a goal shape.
+The next set of shapes on screen will more closely 
+resemble the ones you've shown a prefernce for.
+
+Simply look at (without clicking on) [in control condition: click on (with the mouse)] shapes that will move you toward the goal shape.
+
+[In control condition only:
+If you wish to click on more than one shape,
+right-click on each on you like and then 
+click on one of them with the left mouse button
+to advance to the next generation.]
+
+Please continue this process until you feel that
+at least one of the shapes matches the goal description
+(e.g. that you have produced a small red cone).
+When that happens, press "Q" on the keyboard to quit.
+
+If you believe that you cannot reach the target shape
+and wish to give up before the goal is completed,
+you may also quit at any time by pressing the "Q" key.
+
+[In experimental condition only:
+If at any time the program pauses (the shapes stop spinning)
+and you did not press the spacebar to pause,
+it means that your eyes are not within
+the capturing range of the eyetracker.
+
+Please adjust your posture or position until the
+program captures your eye movements and unpauses itself.]
+
+At any point, if you find an interesting shape on the screen,
+please save that object (you won't lose your progress).
+
+To do this, pause the screen at the rotation
+you desire by pressing the spacebar on the keyboard,
+then take a screenshot by pressing the "S" key.
+
+Unpause with the speacebar to continue designing. 
+
+You will be given 3 separate goals.
+After each, a questionnaire will pop up. After the third
+questionnaire, we will describe Part II of the experiment.
+
+Please take as long as you want for Part I.
+(Though each section will time out after 10 minutes)
+
+Ready to begin?
+(If you forget any of the instructions, 
+please pause with the spacebar before
+looking in the title bar at the top of the screen)
+
+Part II of the Experiment allows you to freely
+design objects that you find interesting.
+
+For the next 20 minutes,
+simply look at (without clicking on) [in control condition: click on (with the mouse)] the shapes that you find most interesting, or that might lead to interesting shapes.
+
+At any point, if you find an interesting shape on the screen,
+please save that object (you won't lose your progress).
+
+To do this, pause the screen at the rotation
+you desire by pressing the spacebar on the keyboard,
+then take a screenshot by pressing the "S" key.
+
+Unpause with the speacebar to continue designing.
+
+At any point in time you can restart
+the process from scratch by pressing "Q".
+    
+You will have 20 minutes for this section.
+The computer will automatically stop you when time is up.
+    
+Ready to begin?
+(If you forget any of the instructions,
+please pause with the spacebar before
+looking in the title bar at the top of the screen)]
+
+Please try and find: [insert shape type here]
+
+Please rate your feelings towards the following statement.
+I was successful in creating: [insert shape type here]
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+                           
+Please try and find the most interesting shapes you can.
+
+We'll restart in a moment, first please tell us why you ended the previous session:
+[options: open entry]
+
+You have completed parts I and II of the experiment.
+Please answer a few questions about your experience today.
+
+The system helped me design interesting shapes:
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+
+The system helped me reach my design goals:
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+
+The system suggested shapes I would not have thought of:
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+
+The system aided my creative design process:
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+
+I felt I had control of what shapes would appear next:
+[options: strongly agree, agree, neutral, disagree, strongly disagree]
+
+Overall, what did you think about this technology?
+Also, did you like using it?
+[options: open entry]
+
+Before you leave, please answer some quick questions about yourself.
+
+Please choose the option that best describes you:
+[options: Male, Female, Other, I Choose Not To Respond]
+
+Please choose the option that best describes you:
+[options: Right Handed, Left Handed, Other, I Choose Not To Respond]
+
+How old are you?
+[options: open entry]
+
+What is your area of study (and/or occupation)?
+[options: open entry]
+
+You're done!
+Thanks for taking part in our study.
